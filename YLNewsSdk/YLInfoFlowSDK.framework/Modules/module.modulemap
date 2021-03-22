@@ -1,0 +1,6 @@
+framework module YLInfoFlowSDK {
+  umbrella header "YLInfoFlowSDK.h"
+
+  export *
+  module * { export * }
+}

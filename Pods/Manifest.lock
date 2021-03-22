@@ -1,0 +1,22 @@
+PODS:
+  - Ads-CN (3.4.4.3):
+    - Ads-CN/BUAdSDK (= 3.4.4.3)
+  - Ads-CN/BUAdSDK (3.4.4.3):
+    - Ads-CN/BUFoundation
+    - Ads-CN/Domestic
+  - Ads-CN/BUFoundation (3.4.4.3)
+  - Ads-CN/Domestic (3.4.4.3)
+
+DEPENDENCIES:
+  - Ads-CN
+
+SPEC REPOS:
+  trunk:
+    - Ads-CN
+
+SPEC CHECKSUMS:
+  Ads-CN: 57285da091f6a9035b78114c817f7e7fde8bff94
+
+PODFILE CHECKSUM: be80c565c2afc58fd0eb60eec315b556d18e2767
+
+COCOAPODS: 1.10.0
